@@ -12,6 +12,7 @@ This is the mathematics equivalent of using compass and ruler.
 The Apfloat library allows for arbitrary precision of the decimal value. This allows the output to get exact precision to the chosen decimal place. (My highest iteration so far is 100,000 digits, which took a bit over 5 hours to calculate.)
 
 The exact formula - to test, copy and paste this into https://keisan.casio.com/calculator
+
 s = 1 / sqrt(2);
 p = s/2;
 c = 1 / sqrt(2);
